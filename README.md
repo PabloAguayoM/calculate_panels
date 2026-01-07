@@ -23,7 +23,7 @@ La solución realiza:
 - `principal.py`: Contiene la función `calculate_panels`.
 - `prueba.py`: Incluye los tests basados en los ejemplos del enunciado.
 
-## ✔ Ejemplos de prueba
+## Ejemplos de prueba
 
 Resultados esperados según el enunciado:
 
@@ -33,7 +33,7 @@ Resultados esperados según el enunciado:
 | 1×2 | 3×5 | 7 |
 | 2×2 | 1×10 | 0 |
 
-## ▶ Ejecución
+## Ejecución
 
 Para ejecutar los tests:
 
